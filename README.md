@@ -1,2 +1,2 @@
-# learn-typescript
-学習用
+# typescript Tempalte
+Typescriptテンプレート
