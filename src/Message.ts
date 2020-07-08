@@ -2,14 +2,11 @@
  * class Message
  */
 export default class Message {
-  message: string
   /**
    * constructor
    * @param {string} message
    */
-  constructor(message: string) {
-    this.message = message
-  }
+  constructor(public message: string) {}
 
   /**
    * out
