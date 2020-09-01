@@ -1,15 +1,11 @@
 {
   "name": "learn-typescript",
   "version": "0.1.0",
-  "description": "Typescriptの学習",
+  "description": "Typescript Boilerplate",
   "main": "index.js",
   "license": "MIT",
   "author": {
     "name": "Yoshiturkey"
-  },
-  "repository": {
-    "url": "git@github.com:Yoshiturkey/learn-typescript.git",
-    "type": "git"
   },
   "devDependencies": {
     "@types/jest": "^26.0.4",
